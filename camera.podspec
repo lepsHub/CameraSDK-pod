@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'CameraSDK'
-  spec.version = '0.0.3-BETA.2'
+  spec.version = '78.2.3-RC.3'
   spec.summary      = 'CameraSDK'
   spec.description  = 'CameraSDK description'
   spec.homepage = 'https://github.com/lepsHub/CameraSDK-pod'
