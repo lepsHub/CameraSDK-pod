@@ -7,3 +7,4 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public func greet(name: Swift.String) -> Swift.String
