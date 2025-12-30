@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/CameraSDK-Swift.h</key>
 		<data>
-		dI9ScZBInymNN/C/O31JO0bhemk=
+		H6VR5QWh2nY/XHgSZlSnQIL3hyA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		X+9CnnWwT7p6u+0uGtm/ioqCZdI=
+		tTPkFW4/XEhpJmfFNn8GIlpInxg=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		V4zvvZjAleDh/eSxE2P7YbUDXfI=
+		PXVzmP2jc1pbPs6X+SOhclX+GD0=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vnG23+nAp8Vv0VKylwqfJqOlusk=
+		GyVYFNirv4qGH3XT1P/WueecMgE=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vnG23+nAp8Vv0VKylwqfJqOlusk=
+		GyVYFNirv4qGH3XT1P/WueecMgE=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/ZNOPto61t5kmmZtkOhCGTuE0oM=
+		hGuqJOgNanNs8Z2XOkdkGvRnBPY=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		V4zvvZjAleDh/eSxE2P7YbUDXfI=
+		PXVzmP2jc1pbPs6X+SOhclX+GD0=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YSnMcl/mGfbkyarkO7apNhy24dI=
+		7xedv+APvBSNqvR1n2jEMjXalaY=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YSnMcl/mGfbkyarkO7apNhy24dI=
+		7xedv+APvBSNqvR1n2jEMjXalaY=
 		</data>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6xM/dcEy6RM11/ZrxPwa/zfj1Gw=
+		MYOWUfQBWuA41PimKujaW2eX59w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,21 +63,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzmx3nxTr+7hmqYX9koTrZClwhwboC0EaDomF+Q1YMg=
+			7G/VPKfw9wz9edJPn8qFZffK8LMvYvS7Z7v3YMc2pHI=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			65oPSbwhuwCBieHMDm9lSpseyz/qcQ+UxQDmz58x9Z8=
+			QcVNKvb+goFg1Eu7wnDOejOwA8AiVIVbau0i9SaEcZE=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/tZI324HzmDdmZVNUG/ZFEDF6OAfA7tMeM6069a8v5I=
+			yDuEZcPYSTAZdXrg/X6h81bw1i3pBPdsqpft+nr0b78=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,28 +91,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/tZI324HzmDdmZVNUG/ZFEDF6OAfA7tMeM6069a8v5I=
+			yDuEZcPYSTAZdXrg/X6h81bw1i3pBPdsqpft+nr0b78=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JCOj/ik2T7sT6p94HBZMnlxv6GcJiHypJ+22Vzje69c=
+			cPR82FPaQa/sup/c+kiAqFV+tXs+ASylgN4a4O1sQC4=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			65oPSbwhuwCBieHMDm9lSpseyz/qcQ+UxQDmz58x9Z8=
+			QcVNKvb+goFg1Eu7wnDOejOwA8AiVIVbau0i9SaEcZE=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3fQwqqoKSfBdD9PM+WKEjwvMhp9Zw3fJ+BJ0TMU5UjE=
+			wRXhTptny10C8Ulhrv/3ZuLjAk2o0cE6O/HRG6LI/Tk=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3fQwqqoKSfBdD9PM+WKEjwvMhp9Zw3fJ+BJ0TMU5UjE=
+			wRXhTptny10C8Ulhrv/3ZuLjAk2o0cE6O/HRG6LI/Tk=
 			</data>
 		</dict>
 		<key>Modules/CameraSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFlYreQPCjVfBvtU3wpHZiMpGxj0NJVAEof43CldOig=
+			v+Hogx7Ji2datr95q8+NdvC1xPYQEwx6Z2TABG19IQk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
